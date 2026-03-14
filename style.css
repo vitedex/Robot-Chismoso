@@ -115,3 +115,14 @@ background:#111;
 color:white;
 margin-top:40px;
 }
+
+.documentacion{
+text-align:center;
+padding:60px 20px;
+background:white;
+margin-top:40px;
+}
+
+.documentacion h2{
+margin-bottom:20px;
+}
